@@ -22,7 +22,7 @@ function App() {
   });
 
   if (isLoading) {
-    return <p>Loading data</p>;
+    return <p>Loadi dng data</p>;
   }
 
   return (
