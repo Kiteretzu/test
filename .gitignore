@@ -24,3 +24,8 @@ dist-ssr
 *.sw?
 
 .env
+
+
+changes -> staging (git add .) -> commit (git commit -m "first init")
+
+
